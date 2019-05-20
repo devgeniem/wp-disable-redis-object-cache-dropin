@@ -9,7 +9,7 @@ The plugin currently supports disabling the Redis while previewing a WordPress a
 ## Installation
 
 ```
-$ composer require devgeniem/wp-disable-redis-object-cache-dropin-disable-handler
+$ composer require devgeniem/wp-disable-redis-object-cache-dropin
 ```
 
 ## Disabling events
